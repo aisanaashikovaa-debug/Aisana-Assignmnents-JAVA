@@ -22,6 +22,6 @@ public class Employee extends Human{
     }
     @Override
     public String getRole() {
-        return "Employeee";
+        return "Employee";
     }
 }
