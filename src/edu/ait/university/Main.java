@@ -14,7 +14,7 @@ public class Main {
 
         Human employeeHuman = new Employee("Arlan", 30, 300000);
 
-        IStudy employeeStudy = new Employee("Dana", 28, 250000);
+        IStudy employeeStudy = new Employee("Alina", 28, 250000);
         IWork employeeWork = new Employee("Dias", 35, 400000);
 
         student.introduce();
